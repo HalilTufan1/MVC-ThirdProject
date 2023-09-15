@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzUL3h+IP0cIdatGJmXjZWBirF1HV9yoakyAZfiGVbTh3eL9K0DrJqyO1Fz/JQIvhu2kEwr8nifs6hYENIhvUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Halil\\OneDrive\\Masaüstü\\MVC\\Store\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Halil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Halil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Halil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
